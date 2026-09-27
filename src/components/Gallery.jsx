@@ -1,5 +1,5 @@
 import data from "../data";
-import ImageCard from "./Imagecard";
+import ImageCard from "./ImageCard";
 
 function Gallery() {
   return (
